@@ -38,5 +38,5 @@ class Server:
 
 
 if __name__ == '__main__':
-    _server = Server()
-    _server.mainloop()
+    server = Server()
+    server.mainloop()
